@@ -1,5 +1,10 @@
 THIS IS AN UNUSUAL COMMUNICATION METHOD, I KNOW.
 
+   ///     \\\      [[       ]]   ||           ||><><><><
+  /// \\  //\\\     [[       ]]   ||           ||><><>
+ ///   \\//  \\\    [[       ]]   ||           ||
+///           \\\   [[><><><>]]   ||><><><><>  ||><><><><>
+
 I am reaching out on behalf of MuleSoft regarding a VP Engineering role.
 This is a profoundly technical company with deep roots in open source.
 Your ownership of a GitHub account and subsequent repository contributions are consequential indicators of qualification for this position.

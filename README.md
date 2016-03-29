@@ -1,11 +1,14 @@
-SPMB - Retained Executive Search Firm
+THIS IS AN UNUSUAL COMMUNICATION METHOD, I KNOW.
 
-You've been invited to discuss a VP Engineering opportunity at MuleSoft
+I am reaching out on behalf of MuleSoft regarding a VP Engineering role.
+This is a profoundly technical company with deep roots in open source.
+Your ownership of a GitHub account and subsequent repository contributions are consequential indicators of qualification for this position.
 
-Cloud native integration platform based on MuleESB.
-Rocket ship company $10M to $150M in four years, growing 100% YoY.
-Engineering team of 110, scaling to 240 by 2018.
+I suspect you already know this company.  But if you don't, here's a brief summary.
+https//:domain=CloudNativeIntegrationPlatform/iPaaS
+https//:growth=$10M-$150M/revenue/2011-2015
+https//:team=110engineers/scaling/240by2018
 
-Significant career growth opportunity!!
+To Contact: Add lexmcglock to a new repository OR ross@spmb.com (415) 342 5870
 
-Contact ross@spmb.com (415) 342 5870
+Regards

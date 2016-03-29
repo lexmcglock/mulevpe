@@ -3,7 +3,7 @@ THIS IS AN UNUSUAL COMMUNICATION METHOD, I KNOW.
    ///     \\\      [[       ]]   ||           ||><><><><
   /// \\  //\\\     [[       ]]   ||           ||><><>
  ///   \\//  \\\    [[       ]]   ||           ||
-///           \\\   [[><><><>]]   ||><><><><>  ||><><><><>
+///           \\\   [[><><><>]]   ||><><><><>  ||><><><><>  
 
 I am reaching out on behalf of MuleSoft regarding a VP Engineering role.
 This is a profoundly technical company with deep roots in open source.
